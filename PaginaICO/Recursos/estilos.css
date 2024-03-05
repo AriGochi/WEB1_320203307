@@ -1,0 +1,14 @@
+body{
+    background-color: azure;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(102,181,151,1) 0%, rgba(121,242,247,1) 50%, rgba(0,212,255,1) 100%);
+    background-size: 100%;
+
+}
+@font-face {
+    font-family:"Travelast";
+    src: url(./Fuentes/Travelast.otf);
+}
+.texto{
+    font-family: 'Travelast';
+}
